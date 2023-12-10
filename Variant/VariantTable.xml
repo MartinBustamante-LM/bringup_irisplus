@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Root Version="4.7.0.0">
+  <Variant Code="123456789_000_999_01" Name="Default" Description="Test" IsReleased="False" />
+  <Variant Code="600466200_000_999" Name="Iris+ B1" Description="12/05/23" IsReleased="False">
+    <Variable Lookup="Variant.Family" Context="Default" Value="Iris" />
+    <Variable Lookup="Variant.Revision" Context="Default" Value="V2" />
+  </Variant>
+  <Variant Code="600466300_000_999" Name="Iris+ B2" Description="12/05/23" IsReleased="False">
+    <Variable Lookup="Variant.Family" Context="Default" Value="Iris" />
+    <Variable Lookup="Variant.Revision" Context="Default" Value="V2" />
+  </Variant>
+  <Variant Code="600466350_000_999" Name="Iris+ B2.5" Description="12/05/23" IsReleased="False">
+    <Variable Lookup="Variant.Family" Context="Default" Value="Iris" />
+    <Variable Lookup="Variant.Revision" Context="Default" Value="V2" />
+  </Variant>
+  <Variant Code="600529300_000_999" Name="Iris+ B2" Description="12/06/23" IsReleased="False">
+    <Variable Lookup="Variant.Family" Context="Default" Value="Iris" />
+    <Variable Lookup="Variant.Revision" Context="Default" Value="V2" />
+  </Variant>
+  <Variant Code="600625300_000_999" Name="Iris+ B2" Description="12/06/23" IsReleased="False">
+    <Variable Lookup="Variant.Family" Context="Default" Value="Iris" />
+    <Variable Lookup="Variant.Revision" Context="Default" Value="V2" />
+  </Variant>
+</Root>
