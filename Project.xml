@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Root Version="4.7.0.0">
   <Info>
-    <Main Description="GrayWall &amp; Elevation test sequence" FixtureId="1" ProjectType="Production" SocketNr="1" SocketSynchronizationMethod="Batch" />
+    <Main Description="BringUp Iris+" FixtureId="1" ProjectType="Production" SocketNr="1" SocketSynchronizationMethod="Batch" />
     <SoftwareRevisionManagement IgnoreList="" PluginName="Git" />
   </Info>
 </Root>
